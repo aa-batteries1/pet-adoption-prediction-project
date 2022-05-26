@@ -1,2 +1,2 @@
 # pet-adoption-prediction-project
-A project predicting the adoption speed of different pets
+This is a project I did predicting the adoption speed of different pets usign scikit-learn. This was based on a dataset containing 14,933 observations and 24 features including Age, MaturitySize, and FurLength.
